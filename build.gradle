@@ -1,0 +1,22 @@
+plugins {
+  id 'base'
+  id 'idea'
+}
+
+task createZipFile(type: Zip) {
+
+  def buildDirName = "build"
+  def buildDir = new File ( buildDirName )
+  buildDir.mkdirs()
+
+  from 'source/'
+  include '**'
+  archiveName "${project.name}-${packVersion}.zip"
+  destinationDir buildDir
+
+}
+
+build {
+  dependsOn clean
+  dependsOn createZipFile
+}

@@ -1,0 +1,433 @@
+{
+  "author": "Cluracan",
+  "files": [
+    {
+      "projectName": "AppleSkin",
+      "projectVersion": "mc1.15.2-forge-1.0.13",
+      "projectID": 248787,
+      "fileID": 2883494,
+      "required": true
+    },
+    {
+      "projectName": "AutoRegLib",
+      "projectVersion": "1.5-40",
+      "projectID": 250363,
+      "fileID": 2911830,
+      "required": true
+    },
+    {
+      "projectName": "Bad Wither No Cookie - Reloaded",
+      "projectVersion": "1.15.1-3.6.13",
+      "projectID": 261251,
+      "fileID": 2844545,
+      "required": true
+    },
+    {
+      "projectName": "Bookshelf",
+      "projectVersion": "1.15.2-5.6.40",
+      "projectID": 228525,
+      "fileID": 2965233,
+      "required": true
+    },
+    {
+      "projectName": "Botania",
+      "projectVersion": "r1.15-384",
+      "projectID": 225643,
+      "fileID": 2953670,
+      "required": true
+    },
+    {
+      "projectName": "CodeChicken Lib 1.8.+",
+      "projectVersion": "1.15.2-3.3.0.373",
+      "projectID": 242818,
+      "fileID": 2969414,
+      "requried": true
+    },
+    {
+      "projectName": "Controlling",
+      "projectVersion": "6.1.4",
+      "projectID": 250398,
+      "fileID": 2929451,
+      "required": true
+    },
+    {
+      "projectName": "Crafting Tweaks",
+      "projectVersion": "1.15.1-11.0.0",
+      "projectID": 233071,
+      "fileID": 2863719,
+      "required": true
+    },
+    {
+      "projectName": "Cucumber Library",
+      "projectVersion": "1.15.2-3.0.7",
+      "projectID": 272335,
+      "fileID": 2969828,
+      "required": true
+    },
+    {
+      "projectName": "Curios API",
+      "projectVersion": "1.15.2-2.0.2.4",
+      "projectID": 309927,
+      "fileID": 2972162,
+      "required": true
+    },
+    {
+      "projectName": "Dark Utilities",
+      "projectVersion": "1.15.2-3.0.5",
+      "projectID": 242195,
+      "fileID": 2940498,
+      "required": true
+    },
+    {
+      "projectName": "Ender Storage 1.8.+",
+      "projectVersion": "1.15.2-2.5.0.143",
+      "projectID": 245174,
+      "fileID": 2969923,
+      "required": true
+    },
+    {
+      "projectName": "Fast Leaf Decay",
+      "projectVersion": "v22",
+      "projectID": 230976,
+      "fileID": 2922884,
+      "required": true
+    },
+    {
+      "projectName": "FastWorkbench",
+      "projectVersion": "1.15.1-3.0.0",
+      "projectID": 288885,
+      "fileID": 2856527,
+      "required": true
+    },
+    {
+      "projectName": "Flux Networks",
+      "projectVersion": "1.15.2-5.0.1-2",
+      "projectID": 248020,
+      "fileID": 2935065,
+      "required": true
+    },
+    {
+      "projectName": "Immersive Engineering",
+      "projectVersion": "0.15-99",
+      "projectID": 231951,
+      "fileID": 2974107,
+      "required": true
+    },
+    {
+      "projectName": "Industrial Foregoing",
+      "projectVersion": "1.15.2-2.3.2-e3bf186",
+      "projectID": 266515,
+      "fileID": 2965619,
+      "required": true
+    },
+    {
+      "projectName": "Inventory Tweaks Renewed",
+      "projectVersion": "1.15.2-2.0.3",
+      "projectID": 383070,
+      "fileID": 2955566,
+      "required": true
+    },
+    {
+      "projectName": "Iron Chests",
+      "projectVersion": "1.15.2-10.0.3",
+      "projectID": 228756,
+      "fileID": 2898344,
+      "required": true
+    },
+    {
+      "projectName": "Iron Shulker Boxes",
+      "projectVersion": "1.15.2-4.0.1",
+      "projectID": 314911,
+      "fileID": 2963421,
+      "required": true
+    },
+    {
+      "projectName": "JEI Integration",
+      "projectVersion": "1.15.2-3.1.0.1",
+      "projectID": 265917,
+      "fileID": 2954814,
+      "required": true
+    },
+    {
+      "projectName": "JourneyMap",
+      "projectVersion": "1.15.2-5.7.0b2",
+      "projectID": 32274,
+      "fileID": 2946765,
+      "required": true
+    },
+    {
+      "projectName": "Just Enough Items (JEI)",
+      "projectVersion": "1.15.2-6.0.0.4",
+      "projectID": 238222,
+      "fileID": 2944279,
+      "required": true
+    },
+    {
+      "projectName": "Just Enough Resources (JER)",
+      "projectVersion": "1.15.2-0.10.1.77",
+      "projectID": 240630,
+      "fileID": 2946240,
+      "required": true
+    },
+    {
+      "projectName": "KleeSlabs",
+      "projectVersion": "1.15.2-8.0.0",
+      "projectID": 241895,
+      "fileID": 2872972,
+      "required": true
+    },
+    {
+      "projectName": "Lollipop",
+      "projectVersion": "1.15.2-1.0.15",
+      "projectID": 347954,
+      "fileID": 2941403,
+      "required": true
+    },
+    {
+      "projectName": "McJtyLib",
+      "projectVersion": "1.15-4.1.1-beta",
+      "projectID": 233105,
+      "fileID": 2971384,
+      "required": true
+    },
+    {
+      "projectName": "MineColonies",
+      "projectVersion": "1.15.2-0.11.957",
+      "projectID": 245506,
+      "fileID": 2970786,
+      "required": true
+    },
+    {
+      "projectName": "Mouse Tweaks",
+      "projectVersion": "2.13-mc1.15.1",
+      "projectID": 60089,
+      "fileID": 2849221,
+      "required": true
+    },
+    {
+      "projectName": "MrCrayfish's Furniture Mod",
+      "projectVersion": "7.0.0-pre16-1.15.1",
+      "projectID": 55438,
+      "fileID": 2853267,
+      "required": true
+    },
+    {
+      "projectName": "Mystical Agriculture",
+      "projectVersion": "1.15.2-3.0.7",
+      "projectID": 246640,
+      "fileID": 2970415,
+      "required": true
+    },
+    {
+      "projectName": "Nature's Compass",
+      "projectVersion": "1.15.2-1.8.5",
+      "projectID": 252848,
+      "fileID": 2893530,
+      "required": true
+    },
+    {
+      "projectName": "The One Probe",
+      "projectVersion": "1.15-2.0.3",
+      "projectID": 245211,
+      "fileID": 2971388,
+      "required": true
+    },
+    {
+      "projectName": "Pam's HarvestCraft 2 - Crops",
+      "projectVersion": "1.15.2-1.0.5",
+      "projectID": 361385,
+      "fileID": 2958622,
+      "required": true
+    },
+    {
+      "projectName": "Pam's HarvestCraft 2 - Food Core",
+      "projectVersion": "1.15.2-1.0.3",
+      "projectID": 372534,
+      "fileID": 2927529,
+      "required": true
+    },
+    {
+      "projectName": "Pam's HarvestCraft 2 - Trees",
+      "projectVersion": "1.15.2-1.0.5",
+      "projectID": 365460,
+      "fileID": 2958436,
+      "required": true
+    },
+    {
+      "projectName": "Patchouli",
+      "projectVersion": "1.15.2-1.2-33",
+      "projectID": 306770,
+      "fileID": 2945108,
+      "required": true
+    },
+    {
+      "projectName": "Placebo",
+      "projectVersion": "1.15.2-3.0.2",
+      "projectID": 283644,
+      "fileID": 2870411,
+      "required": true
+    },
+    {
+      "projectName": "Powah!",
+      "projectVersion": "1.15.2-1.1.14",
+      "projectID": 352656,
+      "fileID": 2941416,
+      "required": true
+    },
+    {
+      "projectName": "Psi",
+      "projectVersion": "r1.2-82",
+      "projectID": 241665,
+      "fileID": 2967462,
+      "required": true
+    },
+    {
+      "projectName": "Quark",
+      "projectVersion": "r2.1-243",
+      "projectID": 243121,
+      "fileID": 2973684,
+      "required": true
+    },
+    {
+      "projectName": "ReAuth",
+      "projectVersion": "1.14-1.15-3.8.1",
+      "projectID": 237701,
+      "fileID": 2950766,
+      "required": true
+    },
+    {
+      "projectName": "RFTools Base",
+      "projectVersion": "1.15-1.1.1-beta",
+      "projectID": 326041,
+      "fileID": 2951430,
+      "required": true
+    },
+    {
+      "projectName": "RFTools Builder",
+      "projectVersion": "1.15-2.1.3-beta",
+      "projectID": 347706,
+      "fileID": 2971386,
+      "required": true
+    },
+    {
+      "projectName": "RFTools Control",
+      "projectVersion": "1.15-3.0.2-beta",
+      "projectID": 250763,
+      "fileID": 2954673,
+      "required": true
+    },
+    {
+      "projectName": "RFTools Power",
+      "projectVersion": "1.15-2.1.1-beta",
+      "projectID": 290209,
+      "fileID": 2951437,
+      "required": true
+    },
+    {
+      "projectName": "RFTools Storage",
+      "projectVersion": "1.15-1.1.4-beta",
+      "projectID": 350006,
+      "fileID": 2971387,
+      "required": true
+    },
+    {
+      "projectName": "RFTools Utility",
+      "projectVersion": "1.15-2.1.3-beta",
+      "projectID": 342466,
+      "fileID": 2964555,
+      "required": true
+    },
+    {
+      "projectName": "Refined Storage",
+      "projectVersion": "1.8.4",
+      "projectID": 243076,
+      "fileID": 2966220,
+      "required": true
+    },
+    {
+      "projectName": "Silent Gear",
+      "projectVersion": "1.15.2-1.7.2+96",
+      "projectID": 297039,
+      "fileID": 2973631,
+      "required": true
+    },
+    {
+      "projectName": "Silent Lib",
+      "projectVersion": "1.15.2-4.6.1+49",
+      "projectID": 242998,
+      "fileID": 2946599,
+      "required": true
+    },
+    {
+      "projectName": "Silent's Gems",
+      "projectVersion": "1.15.2-3.5.4+87",
+      "projectID": 220311,
+      "fileID": 2961883,
+      "required": true
+    },
+    {
+      "projectName": "Silent's Mechanisms",
+      "projectVersion": "1.15.2-0.7.2+52",
+      "projectID": 326258,
+      "fileID": 2970993,
+      "required": true
+    },
+    {
+      "projectName": "Simple Storage Network",
+      "projectVersion": "1.15.2-0.3.2",
+      "projectID": 268495,
+      "fileID": 2915071,
+      "required": true
+    },
+    {
+      "projectName": "Storage Drawers",
+      "projectVersion": "1.15.2-7.0.2",
+      "projectID": 223852,
+      "fileID": 2887674,
+      "required": true
+    },
+    {
+      "projectName": "Structurize",
+      "projectVersion": "0.10.321-ALPHA",
+      "projectID": 298744,
+      "fileID": 2970534,
+      "required": true
+    },
+    {
+      "projectName": "Titanium",
+      "projectVersion": "1.15.2-2.4.1",
+      "projectID": 287342,
+      "fileID": 2963854,
+      "required": true
+    },
+    {
+      "projectName": "Waystones",
+      "projectVersion": "1.15.2-6.0.1",
+      "projectID": 245755,
+      "fileID": 2903834,
+      "required": true
+    },
+    {
+      "projectName": "XNet",
+      "projectVersion": "1.15-2.1.4-beta",
+      "projectID": 260912,
+      "fileID": 2971385,
+      "required": true
+    }
+  ],
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "minecraft": {
+    "modLoaders": [
+      {
+        "id": "forge-31.2.8",
+        "primary": true
+      }
+    ],
+    "version": "1.15.2"
+  },
+  "name": "Primitus",
+  "overrides": "overrides",
+  "projectID": 123456,
+  "version": "0.1"
+}
